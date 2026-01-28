@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 #### Software Architect
 
 Full Name: Fábio Henrique V B S de Almeida
-Age: 45 yrs
 Experience: 20 yrs
 Stack: Java, Spring Boot, AWS, Google Cloud, Azure
 Favorite languages: C, Rust, Ruby
