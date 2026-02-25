@@ -116,7 +116,7 @@ Skills: Agile Methodologies · Database Modeling · Microsoft Visual Studio Code
 Skills: Swagger UI · C4Model · API Design-First · Swagger API · Design Patterns · UML · Microservice · Java · TDD
 
 ---
-### Cargil USA, a leading global food company | Backend Engineer
+## Cargil USA, a leading global food company | Backend Engineer | Via Samcorp Solution
 *Full-time · Oct 2020 - Jun 2021 · 9 mos* *Brazil · Remote*
 
 * Developed Microservices to connect customers to their contracts, deliveries and invoices data with features like Download, Uploads, Excel Generation, Transactional Emails and API Integrations.
